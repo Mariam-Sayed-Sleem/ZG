@@ -1,6 +1,8 @@
 # ORGANIZING Zom-Ga FILES
 ### In this file, I'll be explaining what each file has where it belonds for any other developer checking this content or for future development by me:
 note: You can skip this part if you're uninterested, but since this fill is like a manual for how you turn on the game!
+This model works on python 3.12 or less due to pygame libraries
+this model doesn't open on a playable file since it's python
 
 > 1. ZG.py
 - This file is the main file where the game should be started from
