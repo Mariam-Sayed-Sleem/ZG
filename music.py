@@ -1,0 +1,11 @@
+import pygame
+pygame.mixer.init()
+background = pygame.mixer.Sound("Sound/Promise.wav")
+zombie = pygame.mixer.Sound("Sound/Zombie.wav")
+typer = pygame.mixer.Sound("Sound/TEXT.mp3")
+typer2 = pygame.mixer.Sound("Sound/tes.mp3")
+suspense = pygame.mixer.Sound("Sound/suspense.mp3")
+TeleportIN = pygame.mixer.Sound("Sound/enderman.mp3")
+TeleportOUT = pygame.mixer.Sound("Sound/teleport.mp3")
+rickrolled = pygame.mixer.Sound("Sound/rickroll.mp3")
+seagull = pygame.mixer.Sound("Sound/seagulls.mp3")
