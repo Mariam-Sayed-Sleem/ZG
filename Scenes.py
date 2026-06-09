@@ -33,7 +33,7 @@ def BrokenWindow():
         else:
             scene("Invalid choice.")
 
-def FoodsSPoilage():
+def FoodSpoilage():
     scene("You check your food supplies… something smells off.")
     scene("1. Eat it anyway")
     scene("2. Throw it away")
@@ -399,7 +399,7 @@ def FamilyPhotoFound():
         else:
             scene("Invalid choice.")
 
-def ZombieHordesSPotted():
+def ZombieHordeSpotted():
     scene("From your window you see a massive horde moving slowly down your street.")
     scene("1. Hide completely and go silent")
     scene("2. Create a distraction to redirect them")
